@@ -20,7 +20,7 @@
 </style>
 <%
 	}
-		//Comprueba si la clave no tiene el formato correcto
+		//Comprueba si la clave no tiene el formato correcto en el acceso
 		if (request.getParameter("ErrorClave").equals("formatoAcceso")) {
 %>
 <style type="text/css">
@@ -30,7 +30,7 @@
 </style>
 <%
 	}
-	//Comprueba si la clave no tiene el formato correcto
+	//Comprueba si la clave no tiene el formato correcto en el registro
 		if (request.getParameter("ErrorClave").equals("formatoRegistro")) {
 %>
 <style type="text/css">
