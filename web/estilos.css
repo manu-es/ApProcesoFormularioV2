@@ -1,0 +1,40 @@
+body {
+	text-align: center;
+	background-color: #29aaa0;
+}
+
+.clave {
+	color: red;
+	display: none;
+}
+
+.clave2 {
+	color: red;
+	display: none;
+}
+
+.clave3 {
+	color: red;
+	display: none;
+}
+
+.correo {
+	color: red;
+	display: none;
+}
+
+.cursos {
+	color: red;
+	display: none;
+}
+
+.registro {
+	display: none;
+}
+fieldset {
+    width: 50%;
+  	margin:auto;
+}
+select {
+    vertical-align: text-top;
+}
